@@ -1033,10 +1033,17 @@ h4 {
         padding-left: 0;
         padding-right: 0;
     }
+    .bg-banniere {
+        background-image: url("img/mobile/la-chouette-agence-banniere.jpg");
+    }
 }
+
 
 @media (max-width: 767px) {
     .bloc-mob-center-text {
         text-align: center;
+    }
+    .bg-banniere {
+        background-image: url("img/mobile/la-chouette-agence-banniere.jpg");
     }
 }
