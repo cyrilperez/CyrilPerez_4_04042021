@@ -373,7 +373,7 @@ a:hover {
     }
     .nav > li .dropdown-menu a,
     .nav > li .dropdown-menu a:hover {
-        color: #484848;
+        color: #00000;
     }
     .nav-invert .site-navigation {
         left: 0;
@@ -679,6 +679,7 @@ a {
 
 p {
     font-size: 11px;
+    color: #00000!important;
 }
 
 .tight-width-whitespace {
@@ -714,7 +715,7 @@ h3 {
     font-size: 15px;
     text-transform: uppercase;
     font-weight: 700;
-    color: #ffffff!important;
+    color: #000000!important;
 }
 
 h4 {
@@ -783,7 +784,7 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #rgb(90, 33, 7);
 }
 
 .tc-white {
